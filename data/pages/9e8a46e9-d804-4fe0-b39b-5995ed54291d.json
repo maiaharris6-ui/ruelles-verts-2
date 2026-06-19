@@ -77,7 +77,9 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "image",
+      "url": "https://actualites.uqam.ca/2024/ruelles-vertes-un-programme-a-bonifier/",
+      "caption": "Photo by Nathalie St-Pierre for Actualités UQAM",
       "children": [
         {
           "text": ""
@@ -86,8 +88,16 @@
     },
     {
       "type": "image",
-      "url": "https://actualites.uqam.ca/2024/ruelles-vertes-un-programme-a-bonifier/",
-      "caption": "Photo by Nathalie St-Pierre for Actualités UQAM",
+      "url": "https://actualites.uqam.ca/wp-content/uploads/2024/10/ruelles-vertes-1511.jpg",
+      "caption": " Photo by Nathalie St-Pierre for Actualités UQAM",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -114,7 +124,7 @@
   "created_at": "2026-06-19T13:35:30.029Z",
   "created_by": "maiaharris6-ui",
   "title": "Ruelles Verts",
-  "updated_at": "2026-06-19T14:01:06.615Z",
+  "updated_at": "2026-06-19T14:05:57.125Z",
   "updated_by": "maiaharris6-ui",
   "autogenerate": {
     "enabled": false,
