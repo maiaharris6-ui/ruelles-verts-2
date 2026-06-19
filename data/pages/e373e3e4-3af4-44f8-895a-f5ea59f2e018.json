@@ -4,20 +4,20 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "Îlots de fraicheurs -- TBC"
         }
       ]
     }
   ],
-  "title": "Îlots de fraicheurs (environment)",
+  "title": "Significance of Tags and Tag Groups",
   "parent": "9e8a46e9-d804-4fe0-b39b-5995ed54291d",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "ilots-de-fraicheurs-environment",
+  "slug": "significance-of-tags-and-tag-groups",
   "created_at": "2026-06-19T14:13:36.625Z",
   "created_by": "maiaharris6-ui",
-  "updated_at": "2026-06-19T14:13:36.625Z",
+  "updated_at": "2026-06-19T14:22:34.956Z",
   "updated_by": "maiaharris6-ui"
 }
