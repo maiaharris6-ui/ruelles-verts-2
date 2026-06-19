@@ -1,5 +1,106 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Multi-coloured mural of a llama and shapes. The resonant sound of sirens. On the left side of the screen, the \"Ruelle Vert\" sign is visible, hanging off the utility pole. Éco-quartiers provides these signs for registered Ruelles Verts."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Siren",
+          "category": "Soundmap"
+        },
+        {
+          "tag": "Art",
+          "category": "Shared Space"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Street Sign"
+        }
+      ],
+      "uuid": "9b26680d-362a-4df4-9432-858966c5613f"
+    },
+    {
+      "start_time": 3,
+      "end_time": 9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Title card. The English translation of \"ruelle\" is alleyway. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Video",
+          "category": "Uncategorized"
+        }
+      ],
+      "uuid": "c2faf5ec-2067-4b0c-b61e-dca04ad5590a"
+    },
+    {
+      "start_time": 14,
+      "end_time": 21,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speed bumps visibile in frame, indicating that the ruelle is a shared space for vehicles, and how such a space is to be used by vehicles, (carefully, slowly). On the left side of the screen, a \"Villeray\" sign seemingly made of moss or a moss-like substance on the fence, beside hanging planters with unknown vegetation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Car",
+          "category": "Shared Space"
+        },
+        {
+          "tag": "Horniculture",
+          "category": "Shared Space"
+        }
+      ],
+      "uuid": "e3f2bfa6-66d1-4774-81d3-3535ea812ec4"
+    },
+    {
+      "start_time": 21,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chaz pans to hanging flower pots filled with pink/purple petunias and decorative grass, possibly purple fountain grass, hanging from a bamboo board with flood lights."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Horniculture",
+          "category": "Shared Space"
+        },
+        {
+          "tag": "Video",
+          "category": "Uncategorized"
+        }
+      ],
+      "uuid": "a66bee38-e43f-439b-bd0b-e8659823768a"
+    }
+  ],
   "set": "Default",
   "event_id": "2d3a5b90-bb75-4da8-a70e-679d0b1faf9a",
   "source_id": "896b7826-2f8e-4f61-ab08-33927e10e155"
