@@ -4,6 +4,82 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "The Ruelles Verts (green alleyways) of Montréal are an approach to unused, liminal spaces "
+        },
+        {
+          "text": "between ",
+          "italic": true
+        },
+        {
+          "text": "buildings which foregrounds passage, community, horticulture, and the city's art culture. Official Ruelles Verts are mobilized and initiated with the help of an organization implementing the régroupement Éco-quartier program, as well as a borough organization and/or other partners. On their "
+        },
+        {
+          "text": "website",
+          "link": "https://www.ruellesvertesdemontreal.ca/"
+        },
+        {
+          "text": ", Éco-quartier describes the goal of a Ruelle Vert (translated from French): \"To green, create, and bring to life spaces that are conducive to the environment, play, and community. Local residents, organized into neighborhood committees, share common goals and values; they wish to pool their efforts and talents, improve their space and their families’ living environment, and act locally while thinking globally.\""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ruelles Verts can be found throughout the island of Montréal. There is an interactive map of them "
+        },
+        {
+          "text": "here",
+          "link": "https://www.google.com/maps/d/u/0/viewer?mid=143hjP-d1kJ9dlifQF_2jtys85B4&ll=45.5413600607545%2C-73.63123644677603&z=18"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This annotation project deep maps a"
+        },
+        {
+          "text": " ChazontheGo",
+          "link": "https://www.youtube.com/@chazonthego7810"
+        },
+        {
+          "text": " walking vlog of his experience walking through a Villeray Ruelle Vert, from Rue Jules-Verre to Rue Liège, between Rue Gaspé and Rue Henri-Julien September 2nd, 2022, at 9:15AM. This project eventually intends to eventually feature an experiential, walking vlog from several ruelles verts from several neighbourhoods in Montréal, at different points in time (time of day, season). "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -11,11 +87,12 @@
   ],
   "created_at": "2026-06-19T13:35:30.029Z",
   "created_by": "maiaharris6-ui",
-  "title": "Ruelles Verts 2",
-  "updated_at": "2026-06-19T13:40:04.490Z",
+  "title": "Ruelles Verts",
+  "updated_at": "2026-06-19T13:57:52.303Z",
   "updated_by": "maiaharris6-ui",
   "autogenerate": {
     "enabled": false,
     "type": "home"
-  }
+  },
+  "slug": "ruelles-verts"
 }
