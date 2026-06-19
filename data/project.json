@@ -24,11 +24,69 @@
     "auto_populate_home_page": true,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "category": "Shared Space",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Soundmap",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Uncategorized",
+          "color": "#99E6FF"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Horniculture",
+          "category": "Shared Space"
+        },
+        {
+          "tag": "Art",
+          "category": "Shared Space"
+        },
+        {
+          "tag": "Bicycle",
+          "category": "Shared Space"
+        },
+        {
+          "tag": "Toys",
+          "category": "Shared Space"
+        },
+        {
+          "tag": "Siren",
+          "category": "Soundmap"
+        },
+        {
+          "tag": "Horniculture",
+          "category": "Shared Space"
+        },
+        {
+          "tag": "Street sign",
+          "category": "Uncategorized"
+        },
+        {
+          "tag": "Video",
+          "category": "Uncategorized"
+        },
+        {
+          "tag": "Moss",
+          "category": "Shared Space"
+        },
+        {
+          "tag": "Car",
+          "category": "Shared Space"
+        },
+        {
+          "tag": "Horniculture",
+          "category": "Shared Space"
+        }
+      ]
     },
     "created_at": "2026-06-19T13:35:30.026Z",
-    "updated_at": "2026-06-19T13:35:30.026Z",
+    "updated_at": "2026-06-19T13:36:12.877Z",
     "generate_pages_site": true
   },
   "annotations": {},
