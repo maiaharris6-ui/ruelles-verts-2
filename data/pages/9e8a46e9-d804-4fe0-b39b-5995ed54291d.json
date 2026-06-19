@@ -103,28 +103,12 @@
           "text": ""
         }
       ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
     }
   ],
   "created_at": "2026-06-19T13:35:30.029Z",
   "created_by": "maiaharris6-ui",
   "title": "Ruelles Verts",
-  "updated_at": "2026-06-19T14:05:57.125Z",
+  "updated_at": "2026-06-19T14:29:20.006Z",
   "updated_by": "maiaharris6-ui",
   "autogenerate": {
     "enabled": false,
