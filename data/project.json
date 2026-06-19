@@ -68,10 +68,6 @@
           "category": "Shared Space"
         },
         {
-          "tag": "Street sign",
-          "category": "Uncategorized"
-        },
-        {
           "tag": "Video",
           "category": "Uncategorized"
         },
@@ -94,7 +90,7 @@
       ]
     },
     "created_at": "2026-06-19T13:35:30.026Z",
-    "updated_at": "2026-06-19T13:38:22.303Z",
+    "updated_at": "2026-06-19T13:38:49.406Z",
     "generate_pages_site": true
   },
   "annotations": {},
