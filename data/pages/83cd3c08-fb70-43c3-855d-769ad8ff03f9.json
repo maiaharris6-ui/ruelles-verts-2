@@ -26,7 +26,58 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Featured here is a "
+        },
+        {
+          "text": "ChazontheGo",
+          "link": "https://www.youtube.com/@chazonthego7810"
+        },
+        {
+          "text": " walking vlog of his experience walking through a Villeray ruelle vert, from Rue Jules-Verre to Rue Liège, between Rue Gaspé and Rue Henri-Julien September 2nd, 2022, at 9:15AM."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "link": "https://montreal.ca/villeray-saint-michel-parc-extension"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Villeray-Saint Michel-Parc-Extension ",
+          "link": "https://montreal.ca/villeray-saint-michel-parc-extension"
+        },
+        {
+          "text": "was annexed into Montréal in 1905. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Only one ruelle vert in the neighbourhood makes "
+        },
+        {
+          "text": "Mes Quartier's",
+          "link": "https://mesquartiers.wordpress.com/2020/08/15/top-20-des-plus-belles-ruelles-vertes-a-montreal/"
+        },
+        {
+          "text": " top 20 ruelles verts list: at number 18, it's the ruelle between Saint-Dominique and Casgrain, and Jarry and Guizot. "
         }
       ]
     }
@@ -35,7 +86,7 @@
   "created_by": "maiaharris6-ui",
   "title": "Villeray–Saint-Michel–Parc-Extension",
   "slug": "villeray-saint-michel-parc-extension",
-  "updated_at": "2026-06-19T14:06:12.245Z",
+  "updated_at": "2026-06-19T14:11:28.432Z",
   "updated_by": "maiaharris6-ui",
   "autogenerate": {
     "enabled": false,
