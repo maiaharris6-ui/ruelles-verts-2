@@ -1,0 +1,23 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Deep Mapping",
+  "parent": "9e8a46e9-d804-4fe0-b39b-5995ed54291d",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "deep-mapping",
+  "created_at": "2026-06-19T14:12:02.764Z",
+  "created_by": "maiaharris6-ui",
+  "updated_at": "2026-06-19T14:12:02.764Z",
+  "updated_by": "maiaharris6-ui"
+}
