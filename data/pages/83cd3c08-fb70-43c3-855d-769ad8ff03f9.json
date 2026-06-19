@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "2d3a5b90-bb75-4da8-a70e-679d0b1faf9a",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-06-19T13:37:36.605Z",
   "created_by": "maiaharris6-ui",
   "title": "Villeray–Saint-Michel–Parc-Extension",
   "slug": "villeray-saint-michel-parc-extension",
-  "updated_at": "2026-06-19T13:37:36.605Z",
+  "updated_at": "2026-06-19T14:06:12.245Z",
   "updated_by": "maiaharris6-ui",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "2d3a5b90-bb75-4da8-a70e-679d0b1faf9a"
   }
